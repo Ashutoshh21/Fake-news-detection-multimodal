@@ -1,3 +1,4 @@
+*.npy
 venv/
 __pycache__/
 *.pyc
